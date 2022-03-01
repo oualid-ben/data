@@ -1,10 +1,2 @@
-8
-1442.99
-0.0
-0.0
-0.0
-2.0
-21.0
-1.0
-1.0
-2770.0
+policy_annual_premium,umbrella_limit,capital_gains,capital_loss,incident_severity,incident_hour_of_the_day,number_of_vehicles_involved,bodily_injuries,property_claim
+1442.99,0,0,0,2,21,1,1,2770
